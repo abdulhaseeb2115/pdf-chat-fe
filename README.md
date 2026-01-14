@@ -2,6 +2,9 @@
 
 Modern, responsive Next.js frontend for DocuMind AI with a beautiful UI and smooth animations.
 
+![DocuMind-AI Screenshot](./public/hero.png)
+
+
 ## 🚀 Quick Start
 
 ### Prerequisites
